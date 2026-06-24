@@ -1,0 +1,10 @@
+{
+  "agent_name": "agent_assistant_support_v1",
+  "version": "1.0.0",
+  "llm_provider": "GroqModel",
+  "temperature": 0.3,
+  "max_tokens": 800,
+  "output_format": "structured_text",
+  "prompt_file": "prompts/support_agent_prompt_v1.md",
+  "workflow_file": "Versionnement1.json"
+}
